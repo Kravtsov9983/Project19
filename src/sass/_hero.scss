@@ -1,0 +1,66 @@
+// .hero__section {
+//   background-image: url(../images/Vector-1.jpg);
+//   background-color: #e5e5e5;
+//   box-shadow: -5px 21px 26px rgba(0, 0, 0, 0.04);
+// }
+
+.hero__section--discription--header {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 130%;
+  letter-spacing: 0.03em;
+  color: #111518;
+}
+
+.paragraph {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.08em;
+}
+
+.paragraph-color-1 {
+  font-weight: 500;
+  color: #b9b9b9;
+}
+
+.paragraph-color-2 {
+  font-weight: 700;
+  color: #111518;
+}
+
+.paragraph-color-3 {
+  font-weight: 700;
+  color: #ff6b09;
+}
+
+.hero__section--button {
+  padding: 14px 70px;
+  background: #ff6b09;
+  border: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.hero__foto {
+  margin-top: 20px;
+  padding-top: 20px;
+  position: relative;
+}
+
+.hero__foto-2 {
+  top: 12px;
+  left: 20px;
+  position: absolute;
+}
